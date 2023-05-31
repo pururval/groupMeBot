@@ -1,4 +1,7 @@
 # groupMeBot
 
-Here is a bot that was made for giving updates on job shifts.
-It also has a parser that I used for fetching data from a google calendar and clean it.
+
+A bot that responds to a query “who’s on duty” which parsed and collected data from a Google Calendar. 
+
+
+![Fargo](staffmeeting.jpg)
